@@ -1,12 +1,13 @@
-# E-Commerce-Sales-Project
+# **E-Commerce Sales Analysis Project**
 
-
-# E-Commerce Sales Analysis Project
+---
 
 ## **Project Overview**
 
 This is a data analysis project that aims to discover the sales and profit patterns of an E-Commerce store. The analysis utilized Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to draw important business insights across timeframes, product lines, subdivisions, and customer groups.
 This project is focused on revealing the main insights and the trends of profitability through the analysis of the sales data of an E-Commerce company. The exploration of the dataset carried out by means of the Pandas, NumPy, Matplotlib, and Seaborn libraries led to the identification of the best months, product categories, and customer segments.
+
+---
 
 ## **Objectives**
 
@@ -16,8 +17,9 @@ This project is focused on revealing the main insights and the trends of profita
 4. Study sales and profit by customer segment.
 5. Calculate the sales-to-profit ratio.
 
-## **🔸 Key Insights**
 ---
+
+## **🔸 Key Insights**
 
 #### **Monthly Sales Analysis**
 - ##### November and December recorded the highest sales, largely due to holiday and festive discounts.
@@ -63,6 +65,7 @@ This project is focused on revealing the main insights and the trends of profita
 - Furniture requires price optimization.
 - Q4 is the month of sales and profit peak with holiday advertising as the main driver.
 
+---
 
 ## 🌐 Connect With Me
 🔗 [LinkedIn](https://www.linkedin.com/in/viasandeep/) | 🐙 [GitHub](https://github.com/viasandeep)  
