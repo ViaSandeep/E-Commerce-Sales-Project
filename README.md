@@ -56,8 +56,8 @@ This project is focused on revealing the main insights and the trends of profita
 
 ## **Tools Used**
 - #### Python
-- #### Pandas, NumPy
-- #### Matplotlib, Seaborn
+- #### Pandas
+- #### Plotly
 - #### Jupyter Notebook
 
 ## **Conclusion**
